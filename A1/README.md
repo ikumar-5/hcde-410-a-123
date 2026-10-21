@@ -1,8 +1,3 @@
-#HCDE410
-Files for HCDE410 - Assignment A1
-
-Adapted from # cdsw-2020 https://wiki.communitydata.science/Seattle_open_data
-
 # A1 — Working with Open Data
 
 **Dataset:** Burke-Gilman Trail counter north of NE 70th St (hourly bike and pedestrian counts, by direction)
