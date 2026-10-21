@@ -1,8 +1,8 @@
 # A1 — Working with Open Data
 
 **Dataset:** Burke-Gilman Trail counter north of NE 70th St (hourly bike and pedestrian counts, by direction)
-**Source:** <paste the dataset page URL here> (API ID `2z5v-ecg8`, pulled 2026-10-13)
-**License / terms of use:** <copy from the dataset page, see below>
+**Source:** https://data.seattle.gov/Transportation/Burke-Gilman-Trail-north-of-NE-70th-St-Bicycle-Cou/2z5v-ecg8 (API ID `2z5v-ecg8`, pulled 2026-10-13)
+**License / terms of use:** Public Domain
 
 ## Questions I asked
 - Q1: When is the trail busiest and quietest?
