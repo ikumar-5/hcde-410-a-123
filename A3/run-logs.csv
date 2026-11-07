@@ -1,0 +1,14 @@
+Prompt,,,,,,
+"Count how many times the word ""data"" appears in the text below.
+
+Rules:
+- Ignore capitalization, so ""Data"" and ""data"" both count.
+- Count ""data"" only when it is a standalone word. If it sits next to another word, it still counts (for example, ""data processing"" or ""Data Protection"" each count once).
+- Do not count longer words that contain ""data"", such as ""dataset"" or ""datasets"".
+
+Reply with only the final number.",,,,,,
+Model,Run,Time,Output,Result,Verified,Notes
+GPT-6 Sol.,1,4 s,9,Correct,by python code,thinking...
+GPT-6 Sol.,2,4 s,9,Correct,by python code,thinking...
+GPT-6 Sol.,3,3 s,9,Correct,by python code,thinking...
+Gemini,1,11 s,9,Correct,by python code,"running code, analysing"
